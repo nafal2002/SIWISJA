@@ -1,0 +1,79 @@
+[
+  {
+    "id": "0",
+    "title": "Waduk Jatiluhur Purwakarta",
+    "images": "../assets/images/d-jatiluhur.jpg",
+    "description": "Waduk Jatiluhur adalah waduk terbesar di Indonesia yang menawarkan keindahan alam, aktivitas air, dan kuliner lokal yang menarik.",
+    "location": "https://maps.app.goo.gl/6d9YDUaHix66PQti7"
+  },
+  {
+    "id": "1",
+    "title": "Kawah Putih Ciwidey",
+    "images": "../assets/images/kawah putih.jpg",
+    "description": "Kawah vulkanik dengan air berwarna putih kehijauan ini terletak di dataran tinggi Ciwidey, cocok untuk wisata alam dan fotografi.",
+    "location": "https://maps.app.goo.gl/iodzSsRfH5X4zNq9A"
+  },
+  {
+    "id": "2",
+    "title": "Gunung Tangkuban Perahu",
+    "images": "../assets/images/tangkuban-perahu.jpg",
+    "description": "Gunung berapi aktif dengan kawah besar ini menawarkan pemandangan yang indah dan legenda terkenal tentang Sangkuriang.",
+    "location": "https://maps.app.goo.gl/r7bBW9QbtYi9Sz4k7"
+  },
+  {
+    "id": "3",
+    "title": "Pantai Pangandaran",
+    "images": "../assets/images/pangandaran.jpg",
+    "description": "Pantai yang terkenal dengan keindahan sunset-nya ini menawarkan aktivitas snorkeling, berlayar, dan kuliner seafood.",
+    "location": "https://maps.app.goo.gl/udvrwMASJkUPNf3o9"
+  },
+  {
+    "id": "4",
+    "title": "Situ Patenggang",
+    "images": "../assets/images/situ-patenggang.jpg",
+    "description": "Danau alami yang indah dengan suasana sejuk ini cocok untuk rekreasi keluarga dan aktivitas perahu dayung.",
+    "location": "https://maps.app.goo.gl/39NoD96V4jhN44St7"
+  },
+  {
+    "id": "5",
+    "title": "Curug Cimahi (Rainbow Waterfall)",
+    "images": "../assets/images/curug-cimahi.jpg",
+    "description": "Air terjun setinggi 87 meter yang sering memancarkan pelangi di malam hari berkat pencahayaan khusus.",
+    "location": "https://maps.app.goo.gl/FWCt4Fr3w2bSeedM6"
+  },
+  {
+    "id": "6",
+    "title": "Taman Bunga Nusantara",
+    "images": "../assets/images/taman-bunga-nusantara.jpg",
+    "description": "Taman bunga yang luas dengan berbagai tema seperti taman Jepang, taman Bali, dan taman labirin.",
+    "location": "https://maps.app.goo.gl/oDBXonCmYfV8mqrk7"
+  },
+  {
+    "id": "7",
+    "title": "Green Canyon Pangandaran",
+    "images": "../assets/images/green_canyon.jpg",
+    "description": "Sungai berair jernih dengan tebing-tebing tinggi yang indah, ideal untuk wisata arung jeram dan fotografi.",
+    "location": "https://maps.app.goo.gl/JQX1qRrHDHtcvKaJ7"
+  },
+  {
+    "id": "8",
+    "title": "Dusun Bambu Lembang",
+    "images": "../assets/images/dusun-bambu.jpg",
+    "description": "Destinasi wisata keluarga yang menggabungkan alam, kuliner, dan aktivitas menyenangkan seperti berperahu dan area bermain anak.",
+    "location": "https://maps.app.goo.gl/wkswjw1zCJcMxuQa6"
+  },
+  {
+    "id": "9",
+    "title": "Cimory Dairyland Puncak",
+    "images": "../assets/images/cimory.jpg",
+    "description": "Taman hiburan keluarga dengan peternakan sapi, produk olahan susu, dan restoran dengan pemandangan indah.",
+    "location": "https://maps.app.goo.gl/X2iFHwE9GKp7DgQs6"
+  },
+  {
+    "id": "10",
+    "title": "Stone Garden Citatah",
+    "images": "../assets/images/stone-garden.jpg",
+    "description": "Taman batu alam yang berada di dataran tinggi ini menawarkan pemandangan geologis unik dan panorama indah dari atas bukit.",
+    "location": "https://maps.app.goo.gl/4xpmvDonyKHXJDHH7"
+  }  
+]
