@@ -33,7 +33,7 @@ Proyek ini merupakan aplikasi berbasis web yang menggunakan **React** untuk memb
 ### Langkah-Langkah Instalasi
 1. **Clone Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/nafal2002/SIWISJA
    cd <nama-folder>
    ```
 
