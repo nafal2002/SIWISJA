@@ -164,7 +164,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 ---
 
 ## Kontak
-Jika Anda memiliki pertanyaan, silakan hubungi saya melalui email di [email@example.com].
+Jika Anda memiliki pertanyaan, silakan hubungi saya melalui email di [nafalmf@gmail.com].
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
